@@ -1,0 +1,6 @@
+desktop_v36/
+backend_local/
+*.zip
+__pycache__/
+.env
+.env.*
